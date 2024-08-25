@@ -24,7 +24,8 @@ ___
 ### API 명세서 작성
 
 ---
-<img width="666" alt="image" src="https://github.com/user-attachments/assets/b891a3f1-13a6-46a2-b7ce-e772a8075f3d">![img.png](img.png)
+
+<img width="670" alt="image" src="https://github.com/user-attachments/assets/fa27b926-c274-486d-8879-aec02ee120b1">
 
 
 
@@ -35,7 +36,8 @@ ___
 
 ---
 
-![image](https://github.com/user-attachments/assets/ec276f8a-c02a-4be6-b3fb-e7fd4e43efc9)
+<img width="759" alt="image" src="https://github.com/user-attachments/assets/956833f6-7081-40bd-a325-e0df1eaa1cb1">
+
 
 
 ###

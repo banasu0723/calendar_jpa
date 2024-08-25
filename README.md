@@ -24,7 +24,7 @@ ___
 ### API 명세서 작성
 
 ---
-<img width="676" alt="image" src="https://github.com/user-attachments/assets/07cb4459-6acb-4b35-8982-64925e41b69e">
+<img width="666" alt="image" src="https://github.com/user-attachments/assets/b891a3f1-13a6-46a2-b7ce-e772a8075f3d">![img.png](img.png)
 
 
 
@@ -35,7 +35,7 @@ ___
 
 ---
 
-
+![image](https://github.com/user-attachments/assets/ec276f8a-c02a-4be6-b3fb-e7fd4e43efc9)
 
 
 ###

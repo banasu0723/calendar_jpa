@@ -7,6 +7,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 
 import java.time.LocalDateTime;
+import java.util.List;
 
 @Getter
 @Entity
@@ -24,6 +25,9 @@ public class Events{
 
     private LocalDateTime created_date;  // 작성일
     private LocalDateTime updated_date;  // 수정일
+
+    @OneToMany(mappedBy = "event", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<Comment> comments;
 
     @Builder
     public Events(Long id, String username, String title, String content, LocalDateTime created_date, LocalDateTime updated_date) {
